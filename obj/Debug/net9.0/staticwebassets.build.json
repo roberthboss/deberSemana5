@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "Hash": "jWgpgGbTdHVMjdM5dSnqMuYQGM09T0Pa7FExEkl+JhA=",
+  "Source": "EscuelaCrud",
+  "BasePath": "_content/EscuelaCrud",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EscuelaCrud\\wwwroot",
+      "Source": "EscuelaCrud",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\Tareas\\Semana 5 - Tarea 1\\EscuelaCrud\\wwwroot\\",
+      "BasePath": "_content/EscuelaCrud",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\USUARIO\\Documents\\Tareas\\Semana 5 - Tarea 1\\EscuelaCrud\\obj\\Debug\\net9.0\\compressed\\u87tvhsky0-qdrt4mgv9s.gz",
+      "SourceId": "EscuelaCrud",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\Tareas\\Semana 5 - Tarea 1\\EscuelaCrud\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/EscuelaCrud",
+      "RelativePath": "index#[.{fingerprint=qdrt4mgv9s}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\USUARIO\\Documents\\Tareas\\Semana 5 - Tarea 1\\EscuelaCrud\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "5zpcpsi7rb",
+      "Integrity": "f2jCJ32XB7PngnKwW3pyLwxQqoSX+oqMd9J7T40HNR0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\USUARIO\\Documents\\Tareas\\Semana 5 - Tarea 1\\EscuelaCrud\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\USUARIO\\Documents\\Tareas\\Semana 5 - Tarea 1\\EscuelaCrud\\wwwroot\\index.html",
+      "SourceId": "EscuelaCrud",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\Tareas\\Semana 5 - Tarea 1\\EscuelaCrud\\wwwroot\\",
+      "BasePath": "_content/EscuelaCrud",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qdrt4mgv9s",
+      "Integrity": "InSmmtB49tjaM7s1REBjxjZZf3b2VXXNz9GZ89AckVU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\USUARIO\\Documents\\Tareas\\Semana 5 - Tarea 1\\EscuelaCrud\\obj\\Debug\\net9.0\\compressed\\u87tvhsky0-qdrt4mgv9s.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000570776256"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1751"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f2jCJ32XB7PngnKwW3pyLwxQqoSX+oqMd9J7T40HNR0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 22:00:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"InSmmtB49tjaM7s1REBjxjZZf3b2VXXNz9GZ89AckVU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-InSmmtB49tjaM7s1REBjxjZZf3b2VXXNz9GZ89AckVU="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\USUARIO\\Documents\\Tareas\\Semana 5 - Tarea 1\\EscuelaCrud\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6699"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"InSmmtB49tjaM7s1REBjxjZZf3b2VXXNz9GZ89AckVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 22:00:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-InSmmtB49tjaM7s1REBjxjZZf3b2VXXNz9GZ89AckVU="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\USUARIO\\Documents\\Tareas\\Semana 5 - Tarea 1\\EscuelaCrud\\obj\\Debug\\net9.0\\compressed\\u87tvhsky0-qdrt4mgv9s.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1751"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f2jCJ32XB7PngnKwW3pyLwxQqoSX+oqMd9J7T40HNR0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 22:00:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-f2jCJ32XB7PngnKwW3pyLwxQqoSX+oqMd9J7T40HNR0="
+        }
+      ]
+    },
+    {
+      "Route": "index.qdrt4mgv9s.html",
+      "AssetFile": "C:\\Users\\USUARIO\\Documents\\Tareas\\Semana 5 - Tarea 1\\EscuelaCrud\\obj\\Debug\\net9.0\\compressed\\u87tvhsky0-qdrt4mgv9s.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000570776256"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1751"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f2jCJ32XB7PngnKwW3pyLwxQqoSX+oqMd9J7T40HNR0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 22:00:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"InSmmtB49tjaM7s1REBjxjZZf3b2VXXNz9GZ89AckVU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qdrt4mgv9s"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-InSmmtB49tjaM7s1REBjxjZZf3b2VXXNz9GZ89AckVU="
+        }
+      ]
+    },
+    {
+      "Route": "index.qdrt4mgv9s.html",
+      "AssetFile": "C:\\Users\\USUARIO\\Documents\\Tareas\\Semana 5 - Tarea 1\\EscuelaCrud\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6699"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"InSmmtB49tjaM7s1REBjxjZZf3b2VXXNz9GZ89AckVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 22:00:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qdrt4mgv9s"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-InSmmtB49tjaM7s1REBjxjZZf3b2VXXNz9GZ89AckVU="
+        }
+      ]
+    },
+    {
+      "Route": "index.qdrt4mgv9s.html.gz",
+      "AssetFile": "C:\\Users\\USUARIO\\Documents\\Tareas\\Semana 5 - Tarea 1\\EscuelaCrud\\obj\\Debug\\net9.0\\compressed\\u87tvhsky0-qdrt4mgv9s.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1751"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f2jCJ32XB7PngnKwW3pyLwxQqoSX+oqMd9J7T40HNR0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 22:00:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qdrt4mgv9s"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-f2jCJ32XB7PngnKwW3pyLwxQqoSX+oqMd9J7T40HNR0="
+        }
+      ]
+    }
+  ]
+}
